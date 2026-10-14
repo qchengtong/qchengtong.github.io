@@ -1,0 +1,10 @@
+---
+---
+
+@import "jekyll-theme-modernist";
+
+/* 隐藏页眉里的 "View On GitHub" 按钮 */
+header ul,
+header p.view {
+  display: none;
+}
